@@ -4,8 +4,8 @@ I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www
 
 Here's some things I do that may interest you, in order of how much they interest me:
 * 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
-* 🤖 [gregarious](https://github.com/Jemoka/gregarious): Easy-Peasy Findy of Robot-ies on Tweeties.
-* 🗣 [PolitiSort](https://github.com/PolitiSort/PolitiSort): Sort your political stance, LSTMily w/ @zbuster05
+* 🤖 [gregarious](https://github.com/Jemoka/gregarious): Easy-Peasy Findy of Robot-ies on Tweeties. Also [a research paper](https://www.preprints.org/manuscript/202004.0214/v1).
+* 🗣 [PolitiSort](https://github.com/PolitiSort/PolitiSort): Sort your political stance, with a little LSTM w/ @zbuster05
 * 🧑‍💻 [Borg](https://github.com/Jemoka/Borg): Rapidly Configure a Lot of Things
 
 <div>
