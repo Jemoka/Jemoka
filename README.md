@@ -1,6 +1,6 @@
 ### Yo. Wassup? 👋 
 
-I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www.reddit.com/user/jemoka), [@Jemoka](https://twitter.com/jemokajack)). I am a student in the SF Bay Area, and I do ML and data stuff with Python, Node+front end things with JS, and occasionally C++ when I feel like it.
+I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www.reddit.com/user/jemoka), [@Jemoka](https://twitter.com/jemokajack)). I am a student in the SF Bay Area, and I do ML and data stuff with Python, Node+front end things with JS, and occasionally C++ when I feel like it. Non-Soydev with Soydevish interestes.
 
 Here's some things I do that may interest you, in order of how much they interest me:
 * 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
