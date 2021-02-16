@@ -14,7 +14,7 @@ Here's some things I do that may interest you, in order of how much they interes
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=jemoka&show_icons=true&count_private=true" />
     </a>
-</div>
+</div> <br />
 
 And hey, here's a bit about me:
 * 🖋 I think fountain pens are excellent
