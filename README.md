@@ -16,4 +16,12 @@ Here's some things I do that may interest you, in order of how much they interes
     </a>
 </div>
 
+And hey, here's a bit about me:
+* 🖋 I think fountain pens are excellent
+* 🛣 [Musik nonstop. Techno-pop.](http://kraftwerk.com/), baybee
+* 📹 I make videos, whenever I feel like it
+* 🎙 Host(ed?) a podcast with @ban-ionic-ohms. [It's kinda fun.](https://anchor.fm/yappin)
+* ✅ I am seriously interested in [GTD](https://gettingthingsdone.com/) and also in just being productive
+* 😂 I tried to do standup. That did not go well.
+
 
