@@ -18,15 +18,5 @@ And hey, here's a bit about me:
 * ✅ I am seriously interested in [GTD](https://gettingthingsdone.com/) and also in just being productive
 * 😂 I tried to do standup. That did not go well.
 
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=jemoka&show_icons=true&count_private=true" />
-    </a>
-    <br />
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemoka&layout=compact&count_private=true" />
-    </a>
-</div> <br />
-
 
 
