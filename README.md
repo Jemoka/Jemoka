@@ -19,7 +19,3 @@ And hey, here's a bit about me:
 * 😂 I tried to do standup. That did not go well.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jemoka&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jemoka&theme=vue) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jemoka&theme=vue) 
-
-
