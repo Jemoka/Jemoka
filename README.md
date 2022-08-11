@@ -4,9 +4,9 @@ I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www
 
 Here's some things I do that may interest you, in no particular order:
 * 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
-* 🗞 [ConDef/Dictembed](https://github.com/insanityhq/dictembed): Define a thing, just by context! with @zbuster05. Paper coming, at some point :)
-* 🛀 [Replier](https://github.com/jemoka/replier/): Talk with Your Transformer Buddy for Counseling. Check it out [on ArXiv](https://arxiv.org/abs/2104.10661)!
 * 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU.
+* 🗞 [ConDef/Dictembed](https://github.com/insanityhq/dictembed): Define a thing, just by context! with @zbuster05. Also [a paper](https://link.springer.com/chapter/10.1007/978-3-031-10464-0_41), you should probably ask me for a copy, though.
+* 🛀 [Replier](https://github.com/jemoka/replier/): Talk with Your Transformer Buddy for Counseling. Check it out [on ArXiv](https://arxiv.org/abs/2104.10661)!
 * 🕵️‍ [MODAP stack](https://github.com/MODAP/stack): an open-source effort to make fire detection and segmentation easier when drones arn't allowed
 * 🤖 [gregarious](https://github.com/Jemoka/gregarious): Easy-Peasy Findy of Robot-ies on Tweeties. Also [a research paper](https://www.preprints.org/manuscript/202004.0214/v1). You should use [this version](https://github.com/Jemoka/gregarioussystem), which is better maintained.
 * 🗣 [PolitiSort](https://github.com/PolitiSort/PolitiSort): Sort your political stance, with a little LSTM w/ @zbuster05
