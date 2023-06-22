@@ -12,8 +12,8 @@ Here's some things I currently do that may interest you:
 
 Here are some epic older projects:
 * 📆 [scalandar](https://github.com/scalandar/scalandar): scheduling? automated. @thegail @JackHuhs @papayapaya @Jm0rr
-* 🌐 [these](https://github.com/Jemoka/linux-mbp-wifi/blob/main/8004-brcmfmac-4377-chip-ids.patch) [patches](https://github.com/Jemoka/linux-mbp-wifi/blob/main/9001-fix-bluetooth-shutdown.patch) to [linux-mbp-wifi](https://github.com/Jemoka/linux-mbp-wifi): making wifi work for BCM4377
 * 🗞 [ConDef/Dictembed](https://github.com/insanityhq/dictembed): Define a thing, just by context! with @zbuster05. Also [a paper](https://link.springer.com/chapter/10.1007/978-3-031-10464-0_41), you should probably ask me for a copy, though.
+* 🌐 these patches [1](https://github.com/Jemoka/linux-mbp-wifi/blob/main/8004-brcmfmac-4377-chip-ids.patch) [2](https://github.com/Jemoka/linux-mbp-wifi/blob/main/9001-fix-bluetooth-shutdown.patch) to [linux-mbp-wifi](https://github.com/Jemoka/linux-mbp-wifi): making wifi work for BCM4377 on Linux!!
 * 🕵️‍ [MODAP stack](https://github.com/MODAP/stack): an open-source effort to make fire detection and segmentation easier when drones arn't allowed
 * 🛀 [Replier](https://github.com/jemoka/replier/): Talk with Your Transformer Buddy for Counseling. Check it out [on ArXiv](https://arxiv.org/abs/2104.10661)!
 * 🤖 [gregarious](https://github.com/Jemoka/gregarious): Easy-Peasy Findy of Robot-ies on Tweeties. Also [a research paper](https://www.preprints.org/manuscript/202004.0214/v1). You should use [this version](https://github.com/Jemoka/gregarioussystem), which is better maintained.
