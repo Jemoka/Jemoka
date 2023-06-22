@@ -11,6 +11,7 @@ Here's some things I currently do that may interest you:
 * ✍️ [Blag](https://github.com/jemoka/blag): My website and Blag; the data from which is also driving a [textual info extraction](https://github.com/jemoka/blagger) project. [Check it out!](https://www.jemoka.com/tags/index/)
 
 Here are some epic older projects:
+* 📆 [scalandar](https://github.com/scalandar/scalandar): scheduling? automated. @thegail @JackHuhs @papayapaya @Jm0rr
 * 🗞 [ConDef/Dictembed](https://github.com/insanityhq/dictembed): Define a thing, just by context! with @zbuster05. Also [a paper](https://link.springer.com/chapter/10.1007/978-3-031-10464-0_41), you should probably ask me for a copy, though.
 * 🕵️‍ [MODAP stack](https://github.com/MODAP/stack): an open-source effort to make fire detection and segmentation easier when drones arn't allowed
 * 🛀 [Replier](https://github.com/jemoka/replier/): Talk with Your Transformer Buddy for Counseling. Check it out [on ArXiv](https://arxiv.org/abs/2104.10661)!
