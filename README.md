@@ -4,7 +4,7 @@ I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www
 
 Here's some things I currently do that may interest you:
 * 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
-* 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. Also a paper in-print with JSLHR.
+* 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. [Read the paper!](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00642)
 * 🎤 [#!/Shabang | Simon](https://github.com/Shabang-Systems/simon): Can we augment large language models effectively with data in Elastic, and have actual coherent factual answers from giant amounts of content? Yes we can! Heavy WIP.
 * 🧠 [Longitudinal NACC Data](https://github.com/Jemoka/nacc_exploration/): What happens when you have a lot of very little features, and you are asked to accurately predict alzhimer's? Transformers go brrrrr. Done at UC Davis Engineering.
 * 🙊 [chat-whisper](https://github.com/talkbank/chat-whisper): End-to-end clinical disfluency analysis, but with OpenAI Whisper. Done with CMU PsyLing and the Pittsburg Supercomputer.
