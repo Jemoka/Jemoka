@@ -9,6 +9,7 @@ Here's some things I currently do that may interest you:
 * 🎤 [#!/Shabang | Simon](https://github.com/Shabang-Systems/simon): AI search—your data + postgres instance + 10 lines of code.
 * 🧠 [Longitudinal NACC Data](https://github.com/Jemoka/nacc_exploration/): What happens when you have a lot of very little features, and you are asked to accurately predict alzhimer's? Transformers go brrrrr. Done at UC Davis Engineering. Soon to appear in AAAI W3PHIAI; swing by and say hi!
 * 📕 [StanfordNLP Stanza](https://github.com/stanfordnlp/stanza): NLP for many human languages; I'm helping out with the model training and speed/performance optimizations!
+* 🗻 [Stanford SSI Rover!](https://github.com/stanford-ssi/powertron): We're sending a rover to Antartica for automatic surveying!
 * 🙊 [chat-whisper](https://github.com/talkbank/chat-whisper): End-to-end clinical disfluency analysis, but with OpenAI Whisper. Done with CMU PsyLing and the Pittsburg Supercomputer.
 * ✍️ [Blag](https://github.com/jemoka/blag): My website and Blag; the data from which is also driving a [textual info extraction](https://github.com/jemoka/blagger) project. [Check it out!](https://www.jemoka.com/tags/index/)
 
