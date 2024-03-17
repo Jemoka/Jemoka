@@ -3,19 +3,19 @@
 I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www.reddit.com/user/jemoka)). I am a student in the SF Bay Area, and I do ML and data stuff with Python, Node+front end things with JS, C++ (but probably Rust nowadays) when it actually matters, and Lisp (`simple but refined, guaranteed to blow your mind`). Non-Soydev with Soydevish interestes.
 
 Here's some things I currently do that may interest you:
-* 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
-* 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. [Read the paper!](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00642)
-  * We are releasing a [Python Package](https://github.com/talkbank/batchalign2) soon to make many speech tasks dead simple. Check it out!
+* 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign2): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. [Read the paper](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00642) or [use the Python Package](https://github.com/talkbank/batchalign2)!
 * 🎤 [#!/Shabang | Simon](https://github.com/Shabang-Systems/simon): AI search—your data + postgres instance + 10 lines of code.
-* 🧠 [Longitudinal NACC Data](https://github.com/Jemoka/nacc_exploration/): What happens when you have a lot of very little features, and you are asked to accurately predict alzhimer's? Transformers go brrrrr. Done at UC Davis Engineering. Soon to appear in AAAI W3PHIAI; swing by and say hi!
+* 🧠 [Longitudinal NACC Data](https://github.com/Jemoka/nacc_exploration/): What happens when you have a lot of very little features, and you are asked to accurately predict alzhimer's? Transformers go brrrrr. Done at UC Davis Engineering. Workshop article soon to appear in Springer's Lecture Notes series for AAAI W3PHIAI + journal article in review.
 * 📕 [StanfordNLP Stanza](https://github.com/stanfordnlp/stanza): NLP for many human languages; I'm helping out with the model training and speed/performance optimizations!
 * 🗻 [Stanford SSI Rover](https://github.com/stanford-ssi/powertron): We're sending a rover to Antartica for automatic surveying!
-* 🙊 [chat-whisper](https://github.com/talkbank/chat-whisper): End-to-end clinical disfluency analysis, but with OpenAI Whisper. Done with CMU PsyLing and the Pittsburg Supercomputer.
+* 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
+* 🌲 [Plan of Thoughts](https://github.com/jemoka/sg): what if we did monte-carlo tree search to tree of thoughts?
 * ✍️ [Blag](https://github.com/jemoka/blag): My website and Blag; the data from which is also driving a [textual info extraction](https://github.com/jemoka/blagger) project. [Check it out!](https://www.jemoka.com/tags/index/)
 
 Here are some epic older projects:
 * 📆 [scalandar](https://github.com/scalander/scalander): scheduling? automated. @thegail @JackHuhs @papayapaya @Jm0rr
 * 🗞 [ConDef/Dictembed](https://github.com/insanityhq/dictembed): Define a thing, just by context! with @zbuster05. Also [a paper](https://link.springer.com/chapter/10.1007/978-3-031-10464-0_41), you should probably ask me for a copy, though.
+* 🙊 [chat-whisper](https://github.com/talkbank/chat-whisper): End-to-end clinical disfluency analysis, but with OpenAI Whisper. Done with CMU PsyLing and the Pittsburg Supercomputer—merged into the [TalkBank Batchalign](https://github.com/TalkBank/batchalign2) project
 * 🌐 these patches ([1](https://github.com/Jemoka/linux-mbp-wifi/blob/main/8004-brcmfmac-4377-chip-ids.patch), [2](https://github.com/Jemoka/linux-mbp-wifi/blob/main/9001-fix-bluetooth-shutdown.patch)) to [linux-mbp-wifi](https://github.com/Jemoka/linux-mbp-wifi): making wifi work for BCM4377 on Linux!!
 * 🕵️‍ [MODAP stack](https://github.com/MODAP/stack): an open-source effort to make fire detection and segmentation easier when drones arn't allowed
 * 🛀 [Replier](https://github.com/jemoka/replier/): Talk with Your Transformer Buddy for Counseling. Check it out [on ArXiv](https://arxiv.org/abs/2104.10661)!
