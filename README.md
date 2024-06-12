@@ -4,7 +4,7 @@ I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www
 
 Here's some things I currently do that may interest you:
 * 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign2): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. [Read the paper](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00642) or [use the Python Package](https://github.com/talkbank/batchalign2)!
-* 🎤 [#!/Shabang | Simon](https://github.com/Shabang-Systems/simon): AI search—your data + postgres instance + 10 lines of code.
+* 🎤 [#!/Shabang | Simon](https://github.com/Shabang-Systems/simon): semantic search—your data + postgres instance + 10 lines of code.
 * 🧠 [Longitudinal NACC Data](https://github.com/Jemoka/nacc_exploration/): What happens when you have a lot of very little features, and you are asked to accurately predict alzhimer's? Transformers go brrrrr. Done at UC Davis Engineering. Workshop article soon to appear in Springer's Lecture Notes series for AAAI W3PHIAI + journal article in review.
 * 📕 [StanfordNLP Stanza](https://github.com/stanfordnlp/stanza): NLP for many human languages; I'm helping out with the model training and speed/performance optimizations!
 * 🗻 [Stanford SSI Rover](https://github.com/stanford-ssi/powertron): We're sending a rover to Antartica for automatic surveying!
