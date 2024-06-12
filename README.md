@@ -1,6 +1,6 @@
 ### Yo. Wassup? 👋 
 
-I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www.reddit.com/user/jemoka)). I am a student in the SF Bay Area, and I do ML and data stuff with Python, Node+front end things with JS, C++ (but probably Rust nowadays) when it actually matters, and Lisp (`simple but refined, guaranteed to blow your mind`). Non-Soydev with Soydevish interestes.
+I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www.reddit.com/user/jemoka)). I am a student in the SF Bay Area, and I do ML and data stuff with Python, Node+front end things with JS, C++ (but probably Rust nowadays) when it actually matters, and Lisp (`simple but refined, guaranteed to blow your mind`). 
 
 Here's some things I currently do that may interest you:
 * 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign2): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. [Read the paper](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00642) or [use the Python Package](https://github.com/talkbank/batchalign2)!
