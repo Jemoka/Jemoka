@@ -5,14 +5,15 @@ I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www
 Here's some things I currently do that may interest you:
 * 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign2): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. [Read the paper](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00642) or [use the Python Package](https://github.com/talkbank/batchalign2)!
 * 😤 [ASTPrompter](https://github.com/sisl/ASTPrompter): Can you poke a LM until it goes crazy (with high probability!) with a dutch of reinforcement learing? Why yes you can! Check out [our paper](https://arxiv.org/abs/2407.09447) too!
+* 💭 [Thoughtbubbles](https://github.com/stanfordnlp/thoughtbubbles): Learn yourself an adaptive thinking model with just pretraining. Of course it's [also a paper](https://arxiv.org/abs/2510.00219).
 * 🎤 [#!/Shabang | Simon](https://github.com/Shabang-Systems/simon): semantic search—your data + postgres instance + 10 lines of code.
 * 📕 [StanfordNLP Stanza](https://github.com/stanfordnlp/stanza): NLP for many human languages; I'm helping out with the model training, speed/performance optimizations, and coreference resolution!
-* 🗻 [Stanford SSI Rover](https://github.com/stanford-ssi/powertron): We're sending a rover to Antartica for automatic surveying!
-* 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
-* 🌲 [Plan of Thoughts](https://github.com/jemoka/sg): what if we did monte-carlo tree search to tree of thoughts?
-* ✍️ [Blag](https://github.com/jemoka/blag): My website and Blag; the data from which is also driving a [textual info extraction](https://github.com/jemoka/blagger) project. [Check it out!](https://www.jemoka.com/tags/index/)
+* ✍️ [Blag](https://github.com/jemoka/blaggier): My website and Blag; the data from which is also driving a [textual info extraction](https://github.com/jemoka/blagger) project. [Check it out!](https://www.jemoka.com/)
 
 Here are some epic older projects:
+* 📋 [#!/Shabang | Condution](https://github.com/Shabang-Systems/Condution): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @TheEnquirer
+* 🗻 [Stanford SSI Rover](https://github.com/stanford-ssi/powertron): We're sending a rover to Antartica for automatic surveying!
+* 🌲 [Plan of Thoughts](https://github.com/jemoka/sg): what if we did monte-carlo tree search to tree of thoughts?
 * 🧠 [Longitudinal NACC Data](https://github.com/Jemoka/nacc_exploration/): What happens when you have a lot of very little features, and you are asked to accurately predict alzhimer's? Transformers go brrrrr. Done at UC Davis Engineering. Take a gander [at our paper](https://doi.org/10.1097/WAD.0000000000000619)!
 * 📆 [scalandar](https://github.com/scalander/scalander): scheduling? automated. @thegail @JackHuhs @papayapaya @Jm0rr
 * 🗞 [ConDef/Dictembed](https://github.com/insanityhq/dictembed): Define a thing, just by context! with @zbuster05. Also [a paper](https://link.springer.com/chapter/10.1007/978-3-031-10464-0_41), you should probably ask me for a copy, though.
