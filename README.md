@@ -4,7 +4,7 @@ I am **Houjun Liu** ([Jemoka](https://github.com/Jemoka), [u/Jemoka](https://www
 
 Here's some things I currently do that may interest you:
 * 📢 [TalkBank Batchalign](https://github.com/TalkBank/batchalign2): Have you ever wanted your audio transcribed, utterances segmented, and morphology analyzed? Well now you can. Done at the Psycolinguistics Lab at CMU. [Read the paper](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00642) or [use the Python Package](https://github.com/talkbank/batchalign2)!
-* 😤 [ASTPrompter](https://github.com/sisl/ASTPrompter): Can you poke a LM until it goes crazy (with high probability!) with a dutch of reinforcement learing? Why yes you can! Check out [our paper](https://arxiv.org/abs/2407.09447) too!
+* 😤 [ASTRA](https://github.com/sisl/astra-rl) and [ASTPrompter](https://github.com/sisl/ASTPrompter): Can you poke a LM until it goes crazy (with high probability!) with a dutch of reinforcement learing? Why yes you can! Check out [our paper](https://arxiv.org/abs/2407.09447) too!
 * 💭 [Thoughtbubbles](https://github.com/stanfordnlp/thoughtbubbles): Learn yourself an adaptive thinking model with just pretraining. Of course it's [also a paper](https://arxiv.org/abs/2510.00219).
 * 🎤 [#!/Shabang | Simon](https://github.com/Shabang-Systems/simon): semantic search—your data + postgres instance + 10 lines of code.
 * 📕 [StanfordNLP Stanza](https://github.com/stanfordnlp/stanza): NLP for many human languages; I'm helping out with the model training, speed/performance optimizations, and coreference resolution!
